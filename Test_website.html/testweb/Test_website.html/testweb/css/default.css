@@ -1,0 +1,8 @@
+/* 배경색 */
+body{
+    background-color: pink;
+}
+/* 폰트 */
+*{
+    font-family: 'Gaegu', cursive; 
+}
